@@ -35,16 +35,16 @@
           <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-6" value="管理员通知节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-7" value="内容分析节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="440" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-8" value="正面反馈归档存储节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="540" width="160" height="60" as="geometry" />
+          <mxGeometry x="480" y="740" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-9" value="负面反馈归档存储节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="630" width="160" height="60" as="geometry" />
+          <mxGeometry x="640" y="650" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-10" value="归档结果校验节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="290" width="170" height="80" as="geometry" />
