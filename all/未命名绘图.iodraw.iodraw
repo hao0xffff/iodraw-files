@@ -31,8 +31,8 @@
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-9" value="负面反馈归档存储节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="630" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IcS7ic3Xw4-wCIYASrtv-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="290" width="80" height="80" as="geometry" />
+        <mxCell id="IcS7ic3Xw4-wCIYASrtv-10" value="归档结果校验节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="290" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
