@@ -13,8 +13,8 @@
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-2" value="反馈信息队列" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IcS7ic3Xw4-wCIYASrtv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="IcS7ic3Xw4-wCIYASrtv-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
