@@ -25,8 +25,8 @@
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-7" value="内容分析节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="440" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IcS7ic3Xw4-wCIYASrtv-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="IcS7ic3Xw4-wCIYASrtv-8" value="正面反馈归档存储节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="540" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
