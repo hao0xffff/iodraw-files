@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="IcS7ic3Xw4-wCIYASrtv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IcS7ic3Xw4-wCIYASrtv-0" target="IcS7ic3Xw4-wCIYASrtv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -34,7 +37,7 @@
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-10" value="归档结果校验节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="290" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IcS7ic3Xw4-wCIYASrtv-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IcS7ic3Xw4-wCIYASrtv-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
