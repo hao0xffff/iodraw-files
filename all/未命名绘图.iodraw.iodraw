@@ -56,10 +56,10 @@
           <mxGeometry x="460" y="630" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-10" value="归档结果校验节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="290" width="170" height="80" as="geometry" />
+          <mxGeometry x="315" y="740" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
