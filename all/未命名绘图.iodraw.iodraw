@@ -5,10 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-1" value="反馈采集节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-2" value="反馈信息队列" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
