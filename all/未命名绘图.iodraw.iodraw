@@ -22,7 +22,7 @@
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-6" value="管理员通知节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IcS7ic3Xw4-wCIYASrtv-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IcS7ic3Xw4-wCIYASrtv-7" value="内容分析节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
