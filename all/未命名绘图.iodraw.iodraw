@@ -94,6 +94,11 @@
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IcS7ic3Xw4-wCIYASrtv-10" target="IcS7ic3Xw4-wCIYASrtv-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IcS7ic3Xw4-wCIYASrtv-29" value="归档成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IcS7ic3Xw4-wCIYASrtv-23">
+          <mxGeometry x="-0.3636" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IcS7ic3Xw4-wCIYASrtv-10" value="归档结果校验节点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="770" width="170" height="80" as="geometry" />
         </mxCell>
