@@ -16,7 +16,7 @@
         <mxCell id="3SXBphm3lltdsDgSxGbe-4" value="SpringBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="296" y="153" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3SXBphm3lltdsDgSxGbe-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3SXBphm3lltdsDgSxGbe-5" value="WebHook" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="231" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
