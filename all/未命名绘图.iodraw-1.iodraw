@@ -1,0 +1,105 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="SF3XuKFL0QfNZoGhGqXi">
+    <mxGraphModel dx="1466" dy="707" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-1" target="x2seBYYUY-2gXHdV-Snq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="36" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-2" target="x2seBYYUY-2gXHdV-Snq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-2" value="用户访问业务程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-3" target="x2seBYYUY-2gXHdV-Snq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-27" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x2seBYYUY-2gXHdV-Snq-14">
+          <mxGeometry x="-0.1663" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-3" target="x2seBYYUY-2gXHdV-Snq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-26" value="有且有效" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x2seBYYUY-2gXHdV-Snq-24">
+          <mxGeometry x="-0.6478" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-3" value="该业务程序检查访问请求是否带有认证中心凭证？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="214" width="385" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-4" target="x2seBYYUY-2gXHdV-Snq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-4" value="用户使用该程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="1252" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-5" target="x2seBYYUY-2gXHdV-Snq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-5" value="业务应用重定向到认证中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="359" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-6" target="x2seBYYUY-2gXHdV-Snq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x2seBYYUY-2gXHdV-Snq-16">
+          <mxGeometry x="-0.1912" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-6" target="x2seBYYUY-2gXHdV-Snq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-29" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x2seBYYUY-2gXHdV-Snq-25">
+          <mxGeometry x="-0.0573" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-6" value="认证中心检查用户是否为登录状态？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261.5" y="484" width="305" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-7" target="x2seBYYUY-2gXHdV-Snq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-7" value="进入统一登录界面进行登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="631" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-8" target="x2seBYYUY-2gXHdV-Snq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-8" value="认证中心生成凭证并记录全局登录状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="760" width="214" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-9" target="x2seBYYUY-2gXHdV-Snq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-9" value="认证中心重定向地址为业务应用并携带凭证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="884" width="259" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-10" target="x2seBYYUY-2gXHdV-Snq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-10" value="业务应用校验凭证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="x2seBYYUY-2gXHdV-Snq-11" target="x2seBYYUY-2gXHdV-Snq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-11" value="业务应用创建并保存本地登录状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="1113" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x2seBYYUY-2gXHdV-Snq-22" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1369" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
