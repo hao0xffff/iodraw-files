@@ -49,6 +49,12 @@
         <mxCell id="_ZaWVenRCgeX997hdJBr-15" value="数据输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="682" y="-237" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_ZaWVenRCgeX997hdJBr-16" value="figma产出的页面代码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="682" y="-197" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaWVenRCgeX997hdJBr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZaWVenRCgeX997hdJBr-16" target="_ZaWVenRCgeX997hdJBr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
