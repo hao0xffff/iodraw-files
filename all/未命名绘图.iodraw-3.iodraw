@@ -79,10 +79,10 @@
         <mxCell id="_ZaWVenRCgeX997hdJBr-25" value="优化后的页面代码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="549" y="-54" width="101" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZaWVenRCgeX997hdJBr-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_ZaWVenRCgeX997hdJBr-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZaWVenRCgeX997hdJBr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="188" y="-94" as="sourcePoint" />
-            <mxPoint x="238" y="-144" as="targetPoint" />
+            <mxPoint x="133" y="-165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
