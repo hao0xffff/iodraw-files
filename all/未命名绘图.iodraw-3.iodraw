@@ -17,10 +17,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_ZaWVenRCgeX997hdJBr-6" value="操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="193" y="-250" width="60" height="30" as="geometry" />
+          <mxGeometry x="193" y="-247" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ZaWVenRCgeX997hdJBr-7" value="输入提示词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="197" y="-197" width="60" height="30" as="geometry" />
+          <mxGeometry x="183.5" y="-197" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
