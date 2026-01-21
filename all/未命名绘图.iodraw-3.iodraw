@@ -43,8 +43,11 @@
             <mxPoint x="771" y="-209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ZaWVenRCgeX997hdJBr-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="_ZaWVenRCgeX997hdJBr-14" value="V0" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="787" y="-247" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZaWVenRCgeX997hdJBr-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="682" y="-237" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
