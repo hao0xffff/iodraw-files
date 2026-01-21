@@ -10,7 +10,7 @@
         <mxCell id="_ZaWVenRCgeX997hdJBr-2" value="tooljet页面" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="323" y="-247" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_ZaWVenRCgeX997hdJBr-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZaWVenRCgeX997hdJBr-1">
+        <mxCell id="_ZaWVenRCgeX997hdJBr-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_ZaWVenRCgeX997hdJBr-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="154" y="-214" as="sourcePoint" />
             <mxPoint x="204" y="-264" as="targetPoint" />
