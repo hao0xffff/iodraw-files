@@ -22,10 +22,10 @@
         <mxCell id="_ZaWVenRCgeX997hdJBr-7" value="输入提示词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="183.5" y="-197" width="79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ZaWVenRCgeX997hdJBr-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_ZaWVenRCgeX997hdJBr-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ZaWVenRCgeX997hdJBr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="457" y="-190" as="sourcePoint" />
-            <mxPoint x="507" y="-240" as="targetPoint" />
+            <mxPoint x="494" y="-209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
