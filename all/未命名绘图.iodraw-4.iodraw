@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aQDgD-hZymZ816s7r1Xp-1" value="&lt;li&gt;&lt;p data-path-to-node=&quot;20,0,0&quot;&gt;&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;20,0,0&quot;&gt;认证 (SSO):&lt;/b&gt;&amp;nbsp;使用&amp;nbsp;&lt;b data-index-in-node=&quot;13&quot; data-path-to-node=&quot;20,0,0&quot;&gt;Keycloak&lt;/b&gt;&amp;nbsp;(处理登录和 JWT)。&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="492" width="180" height="60" as="geometry" />
+          <mxGeometry x="50" y="496" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aQDgD-hZymZ816s7r1Xp-2" value="&lt;b style=&quot;background-color: initial;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;20,1,0&quot;&gt;权限控制:&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;使用&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot; data-index-in-node=&quot;9&quot; data-path-to-node=&quot;20,1,0&quot;&gt;Casbin&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(处理 RBAC 逻辑)。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="232" y="492" width="183" height="60" as="geometry" />
+          <mxGeometry x="255" y="494" width="183" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aQDgD-hZymZ816s7r1Xp-3" value="&lt;b data-index-in-node=&quot;0&quot; data-path-to-node=&quot;20,2,0&quot;&gt;租户隔离:&lt;/b&gt;&amp;nbsp;使用&amp;nbsp;&lt;b data-index-in-node=&quot;9&quot; data-path-to-node=&quot;20,2,0&quot;&gt;PostgreSQL 的 Row-Level Security (RLS)&lt;/b&gt;&amp;nbsp;或&amp;nbsp;&lt;b data-index-in-node=&quot;49&quot; data-path-to-node=&quot;20,2,0&quot;&gt;MyBatis-Plus/TypeORM 的拦截器&lt;/b&gt;（在 API 网关层注入&amp;nbsp;&lt;code data-index-in-node=&quot;87&quot; data-path-to-node=&quot;20,2,0&quot;&gt;tenant_id&lt;/code&gt;）。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="434" y="492" width="173" height="166" as="geometry" />
+          <mxGeometry x="463" y="494" width="173" height="166" as="geometry" />
         </mxCell>
         <mxCell id="aQDgD-hZymZ816s7r1Xp-4" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;20,3,0&quot;&gt;接口保护:&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;使用&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot; data-index-in-node=&quot;9&quot; data-path-to-node=&quot;20,3,0&quot;&gt;Nginx/APISIX&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(做全局的 JWT 验签)。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665" y="494" width="120" height="124" as="geometry" />
