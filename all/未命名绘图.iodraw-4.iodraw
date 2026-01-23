@@ -14,7 +14,7 @@
           <mxGeometry x="434" y="492" width="173" height="166" as="geometry" />
         </mxCell>
         <mxCell id="aQDgD-hZymZ816s7r1Xp-4" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot; data-index-in-node=&quot;0&quot; data-path-to-node=&quot;20,3,0&quot;&gt;接口保护:&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;使用&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot; data-index-in-node=&quot;9&quot; data-path-to-node=&quot;20,3,0&quot;&gt;Nginx/APISIX&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;(做全局的 JWT 验签)。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="468" width="120" height="124" as="geometry" />
+          <mxGeometry x="665" y="494" width="120" height="124" as="geometry" />
         </mxCell>
         <mxCell id="aQDgD-hZymZ816s7r1Xp-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
