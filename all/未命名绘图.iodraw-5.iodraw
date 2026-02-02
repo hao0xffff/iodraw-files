@@ -107,7 +107,7 @@
           <mxGeometry x="288" y="615" width="38" height="52" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-39" value="RBAC / PG Schema Filter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="284" y="637" width="172" height="30" as="geometry" />
+          <mxGeometry x="271" y="646" width="172" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
