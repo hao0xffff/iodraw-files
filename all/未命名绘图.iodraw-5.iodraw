@@ -36,6 +36,9 @@
         <mxCell id="gCS5WCsDeemDpFhWF5JN-5" value="Tools" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="801" width="256" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gCS5WCsDeemDpFhWF5JN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gCS5WCsDeemDpFhWF5JN-6" target="gCS5WCsDeemDpFhWF5JN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-6" value="Interaction Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="420" width="256" height="60" as="geometry" />
         </mxCell>
@@ -49,10 +52,10 @@
           <mxGeometry x="559" y="626" width="199" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-10" value="负责 ReAct 循环和任务拆解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="559" y="716" width="169" height="30" as="geometry" />
+          <mxGeometry x="587" y="718" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-11" value="负责在 Java 环境下执行物理操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="559" y="818" width="197" height="30" as="geometry" />
+          <mxGeometry x="589" y="816" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gCS5WCsDeemDpFhWF5JN-12" target="gCS5WCsDeemDpFhWF5JN-6">
           <mxGeometry relative="1" as="geometry" />
