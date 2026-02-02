@@ -46,10 +46,10 @@
           <mxGeometry x="552" y="438" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-8" value="负责推理和语义理解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="559" y="527" width="185" height="30" as="geometry" />
+          <mxGeometry x="610" y="527" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-9" value="负责持久化知识和 Schema 权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="559" y="626" width="199" height="30" as="geometry" />
+          <mxGeometry x="596" y="626" width="199" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-10" value="负责 ReAct 循环和任务拆解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="587" y="718" width="169" height="30" as="geometry" />
