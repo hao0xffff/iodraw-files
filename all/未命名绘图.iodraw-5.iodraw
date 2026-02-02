@@ -53,10 +53,10 @@
           <mxGeometry x="275" y="387" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-7" value="负责 Generative UI 和人机对齐" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="11" y="404" width="185" height="30" as="geometry" />
+          <mxGeometry x="-7" y="402" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCS5WCsDeemDpFhWF5JN-8" value="负责推理和语义理解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="11" y="527" width="185" height="30" as="geometry" />
+        <mxCell id="gCS5WCsDeemDpFhWF5JN-8" value="负责推理和语义理解" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-7" y="527" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-9" value="负责持久化知识和 Schema 权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="16" y="626" width="199" height="30" as="geometry" />
