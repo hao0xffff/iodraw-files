@@ -34,6 +34,9 @@
         <mxCell id="gCS5WCsDeemDpFhWF5JN-11" value="负责在 Java 环境下执行物理操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="559" y="818" width="197" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gCS5WCsDeemDpFhWF5JN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gCS5WCsDeemDpFhWF5JN-12" target="gCS5WCsDeemDpFhWF5JN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-12" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="383" y="246" width="30" height="60" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-14" value="Terminal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="371.5" y="985" width="63" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gCS5WCsDeemDpFhWF5JN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gCS5WCsDeemDpFhWF5JN-12" target="gCS5WCsDeemDpFhWF5JN-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
