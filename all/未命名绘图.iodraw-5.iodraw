@@ -92,8 +92,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gCS5WCsDeemDpFhWF5JN-31" value="Is&lt;div&gt;&amp;nbsp;Secretary&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="48" y="169" width="60" height="30" as="geometry" />
+        <mxCell id="gCS5WCsDeemDpFhWF5JN-31" value="Is&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Secretary&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="48" y="169" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
