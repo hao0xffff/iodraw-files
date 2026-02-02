@@ -8,10 +8,10 @@
           <mxGeometry x="275" y="512" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-3" value="Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="541" y="866" width="256" height="60" as="geometry" />
+          <mxGeometry x="275" y="701" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-4" value="Memory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="705" width="256" height="60" as="geometry" />
+          <mxGeometry x="275" y="601" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-5" value="Tools" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="801" width="256" height="60" as="geometry" />
