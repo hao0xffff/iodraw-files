@@ -40,8 +40,8 @@
         <mxCell id="gCS5WCsDeemDpFhWF5JN-13" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.terminal;" vertex="1" parent="1">
           <mxGeometry x="363" y="961" width="80" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="gCS5WCsDeemDpFhWF5JN-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="383" y="1026" width="40" height="26" as="geometry" />
+        <mxCell id="gCS5WCsDeemDpFhWF5JN-14" value="Terminal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="372" y="1026" width="63" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
