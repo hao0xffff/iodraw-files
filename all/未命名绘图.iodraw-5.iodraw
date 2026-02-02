@@ -43,7 +43,7 @@
           <mxGeometry x="275" y="387" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-7" value="负责 Generative UI 和人机对齐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="23" y="435" width="185" height="30" as="geometry" />
+          <mxGeometry x="31" y="406" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-8" value="负责推理和语义理解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="11" y="527" width="185" height="30" as="geometry" />
@@ -75,6 +75,11 @@
               <mxPoint x="581" y="731" />
               <mxPoint x="581" y="534" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCS5WCsDeemDpFhWF5JN-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gCS5WCsDeemDpFhWF5JN-27">
+          <mxGeometry x="0.0524" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
