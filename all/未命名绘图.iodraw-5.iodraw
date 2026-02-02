@@ -19,8 +19,8 @@
         <mxCell id="gCS5WCsDeemDpFhWF5JN-6" value="Interaction Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="420" width="256" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gCS5WCsDeemDpFhWF5JN-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="552" y="438" width="60" height="30" as="geometry" />
+        <mxCell id="gCS5WCsDeemDpFhWF5JN-7" value="负责 Generative UI 和人机对齐" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="438" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="559" y="527" width="60" height="30" as="geometry" />
