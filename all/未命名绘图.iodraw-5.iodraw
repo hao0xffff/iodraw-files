@@ -28,7 +28,7 @@
         <mxCell id="gCS5WCsDeemDpFhWF5JN-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="559" y="626" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCS5WCsDeemDpFhWF5JN-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gCS5WCsDeemDpFhWF5JN-10" value="负责 ReAct 循环和任务拆解" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="559" y="716" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
