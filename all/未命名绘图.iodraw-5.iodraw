@@ -65,7 +65,7 @@
           <mxGeometry x="31" y="716" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-11" value="负责在 Java 环境下执行物理操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="31" y="816" width="197" height="30" as="geometry" />
+          <mxGeometry x="31" y="834" width="197" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCS5WCsDeemDpFhWF5JN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gCS5WCsDeemDpFhWF5JN-12" target="gCS5WCsDeemDpFhWF5JN-6">
           <mxGeometry relative="1" as="geometry" />
