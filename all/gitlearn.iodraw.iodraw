@@ -94,11 +94,16 @@
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-29" value="&#xa;git checkout&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="334" y="363" width="130" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="P_kIjOgJYXGvHkhZzBAk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="P_kIjOgJYXGvHkhZzBAk-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524.6666870117188" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="496" y="527" width="13" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-31" value="git checkout -b" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="601" y="399" width="145" height="30" as="geometry" />
+          <mxGeometry x="420" y="538.5" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
