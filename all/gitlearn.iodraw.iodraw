@@ -47,13 +47,21 @@
           <mxGeometry x="328" y="227" width="13" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_kIjOgJYXGvHkhZzBAk-14" target="P_kIjOgJYXGvHkhZzBAk-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="362" y="262" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="227" width="13" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_kIjOgJYXGvHkhZzBAk-15" target="P_kIjOgJYXGvHkhZzBAk-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393" y="262" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389.5" y="227" width="13" height="35" as="geometry" />
@@ -76,6 +84,9 @@
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-20" value="git clone ...." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="204" y="374" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_kIjOgJYXGvHkhZzBAk-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="454" y="561" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
