@@ -106,8 +106,8 @@
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="486" y="209" width="13" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="P_kIjOgJYXGvHkhZzBAk-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="533" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="P_kIjOgJYXGvHkhZzBAk-35" value="git push" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="464" y="357" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
