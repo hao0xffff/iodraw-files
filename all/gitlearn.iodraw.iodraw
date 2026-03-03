@@ -103,10 +103,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="496" y="527" width="13" height="35" as="geometry" />
+          <mxGeometry x="487.5" y="528" width="13" height="35" as="geometry" />
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-31" value="git checkout -b" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="538.5" width="145" height="30" as="geometry" />
+          <mxGeometry x="399" y="570" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-33" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
           <mxGeometry x="486" y="209" width="13" height="35" as="geometry" />
