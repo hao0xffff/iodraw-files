@@ -89,7 +89,7 @@
           <mxGeometry x="369" y="508.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-27" value="git pull" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="519" y="384" width="60" height="30" as="geometry" />
+          <mxGeometry x="284" y="372" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
