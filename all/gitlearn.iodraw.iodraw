@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P_kIjOgJYXGvHkhZzBAk-1" value="github" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P_kIjOgJYXGvHkhZzBAk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="45" width="422" height="243" as="geometry" />
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-6" value="localstroage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="193" y="647" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_kIjOgJYXGvHkhZzBAk-7" value="Github" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="231" y="69" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
