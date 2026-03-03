@@ -92,7 +92,10 @@
           <mxGeometry x="284" y="372" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P_kIjOgJYXGvHkhZzBAk-29" value="&#xa;git checkout&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="555" y="374" width="130" height="28" as="geometry" />
+          <mxGeometry x="334" y="363" width="130" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="P_kIjOgJYXGvHkhZzBAk-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="379" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
