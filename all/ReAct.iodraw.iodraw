@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J_-7zexa2pW8d3QRJvov-1" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry x="319" y="144" width="90" height="100" as="geometry" />
+          <mxGeometry x="342" y="131" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J_-7zexa2pW8d3QRJvov-2" value="LLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="334" y="152" width="60" height="30" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="108" y="271" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="J_-7zexa2pW8d3QRJvov-4" value="Prompt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="108" y="312" width="60" height="30" as="geometry" />
+          <mxGeometry x="118" y="315" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J_-7zexa2pW8d3QRJvov-5" value="Parser" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
           <mxGeometry x="534" y="286" width="160" height="70" as="geometry" />
