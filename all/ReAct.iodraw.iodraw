@@ -16,11 +16,14 @@
         <mxCell id="J_-7zexa2pW8d3QRJvov-4" value="Prompt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="108" y="312" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J_-7zexa2pW8d3QRJvov-5" value="Label" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
-          <mxGeometry x="457" y="286" width="160" height="70" as="geometry" />
+        <mxCell id="J_-7zexa2pW8d3QRJvov-5" value="Parser" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="286" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J_-7zexa2pW8d3QRJvov-6" value="" style="triangle;html=1;whiteSpace=wrap;" vertex="1" parent="J_-7zexa2pW8d3QRJvov-5">
           <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J_-7zexa2pW8d3QRJvov-7" value="Label" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="310" y="446" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
