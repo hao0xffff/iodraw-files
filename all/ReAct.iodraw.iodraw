@@ -25,18 +25,6 @@
         <mxCell id="J_-7zexa2pW8d3QRJvov-7" value="Tools" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="327" y="444" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J_-7zexa2pW8d3QRJvov-8" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.419;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J_-7zexa2pW8d3QRJvov-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="626" y="221" as="sourcePoint" />
-            <mxPoint x="331" y="294" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="331" y="344" />
-              <mxPoint x="567" y="223" />
-              <mxPoint x="622" y="189" />
-              <mxPoint x="281" y="294" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
