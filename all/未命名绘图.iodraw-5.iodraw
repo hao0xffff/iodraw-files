@@ -13,7 +13,7 @@
             <mxPoint x="415" y="-196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IdTREgpn2IiJyiPg8G1L-3" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-3" value="slack" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="291" y="-50" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
