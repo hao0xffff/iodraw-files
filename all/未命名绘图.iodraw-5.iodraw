@@ -13,6 +13,11 @@
             <mxPoint x="415" y="-196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-4" value="Make.com" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IdTREgpn2IiJyiPg8G1L-2">
+          <mxGeometry x="0.0829" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IdTREgpn2IiJyiPg8G1L-3" value="slack" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="291" y="-50" width="200" height="200" as="geometry" />
         </mxCell>
