@@ -35,7 +35,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IdTREgpn2IiJyiPg8G1L-8" value="Vertical Flow Layout" style="swimlane;startSize=20;horizontal=1;childLayout=flowLayout;flowOrientation=north;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-8" value="Dify-WorkFlow" style="swimlane;startSize=20;horizontal=1;childLayout=flowLayout;flowOrientation=north;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="627" y="-659" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="IdTREgpn2IiJyiPg8G1L-9" value="Start" style="whiteSpace=wrap;html=1;" vertex="1" parent="IdTREgpn2IiJyiPg8G1L-8">
