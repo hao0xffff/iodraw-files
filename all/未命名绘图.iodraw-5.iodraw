@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IdTREgpn2IiJyiPg8G1L-8" value="Dify-WorkFlow" style="swimlane;startSize=20;horizontal=1;childLayout=flowLayout;flowOrientation=north;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1012" y="-456.5" width="270" height="280" as="geometry" />
+          <mxGeometry x="1015" y="-462" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="IdTREgpn2IiJyiPg8G1L-9" value="Start" style="whiteSpace=wrap;html=1;" vertex="1" parent="IdTREgpn2IiJyiPg8G1L-8">
           <mxGeometry x="85" y="40" width="100" height="40" as="geometry" />
@@ -78,6 +78,53 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IdTREgpn2IiJyiPg8G1L-16" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="IdTREgpn2IiJyiPg8G1L-8" source="IdTREgpn2IiJyiPg8G1L-12" target="IdTREgpn2IiJyiPg8G1L-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="182" />
+              <mxPoint x="157.5" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-18" value="Dify-WorkFlow" style="swimlane;startSize=20;horizontal=1;childLayout=flowLayout;flowOrientation=north;resizable=0;interRankCellSpacing=50;containerType=tree;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="-452" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-19" value="Start" style="whiteSpace=wrap;html=1;" vertex="1" parent="IdTREgpn2IiJyiPg8G1L-18">
+          <mxGeometry x="85" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-20" value="Task" style="whiteSpace=wrap;html=1;" vertex="1" parent="IdTREgpn2IiJyiPg8G1L-18">
+          <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-21" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="IdTREgpn2IiJyiPg8G1L-18" source="IdTREgpn2IiJyiPg8G1L-19" target="IdTREgpn2IiJyiPg8G1L-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="112.5" y="92" />
+              <mxPoint x="70" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-22" value="Task" style="whiteSpace=wrap;html=1;" vertex="1" parent="IdTREgpn2IiJyiPg8G1L-18">
+          <mxGeometry x="150" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-23" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="IdTREgpn2IiJyiPg8G1L-18" source="IdTREgpn2IiJyiPg8G1L-19" target="IdTREgpn2IiJyiPg8G1L-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="157.5" y="92" />
+              <mxPoint x="200" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-24" value="End" style="whiteSpace=wrap;html=1;" vertex="1" parent="IdTREgpn2IiJyiPg8G1L-18">
+          <mxGeometry x="85" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-25" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="IdTREgpn2IiJyiPg8G1L-18" source="IdTREgpn2IiJyiPg8G1L-20" target="IdTREgpn2IiJyiPg8G1L-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="182" />
+              <mxPoint x="112.5" y="208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdTREgpn2IiJyiPg8G1L-26" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="IdTREgpn2IiJyiPg8G1L-18" source="IdTREgpn2IiJyiPg8G1L-22" target="IdTREgpn2IiJyiPg8G1L-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="182" />
