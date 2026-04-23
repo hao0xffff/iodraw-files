@@ -89,5 +89,4 @@ flowchart TD
     D2 -->|"否，但有 counselor"| F2["resolveCurrentUiRole = counselor"]
     E2 --> G2["默认进入员工端"]
     F2 --> H2["进入咨询师端"]
-  
 ```
