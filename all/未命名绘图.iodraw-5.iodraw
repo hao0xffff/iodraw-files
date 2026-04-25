@@ -265,8 +265,8 @@
             <mxPoint x="421" y="1753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-86" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="336" y="1813" width="60" height="30" as="geometry" />
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-86" value="Agent就是一个接上了一个大脑的大循环；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="336" y="1813" width="273" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
