@@ -136,8 +136,8 @@
             <mxPoint x="411" y="1208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-45" value="而Agent就是这个模式运行的；&lt;div&gt;我们看看一个完整的ReAct框架：&lt;br&gt;PromptBuilder,&lt;/div&gt;&lt;div&gt;LLM，Parser，Tools这四个核心模块组成&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="364" y="1249" width="385" height="30" as="geometry" />
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-45" value="而Agent就是这个模式运行的；&lt;div&gt;我们看看一个完整的ReAct框架：&lt;br&gt;PromptBuilder,&lt;span style=&quot;background-color: initial;&quot;&gt;LLM，Parser，Tools这四个核心模块组成&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="161" y="1249" width="510" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
