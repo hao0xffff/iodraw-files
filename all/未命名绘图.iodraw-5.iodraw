@@ -97,8 +97,8 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-33" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="745" width="53" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="374" y="721" width="60" height="30" as="geometry" />
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-34" value="?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487" y="768" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
