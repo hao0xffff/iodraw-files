@@ -289,6 +289,9 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-94" value="tools" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="513" y="2144" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-96" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="52" y="2036" width="135" height="135" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
