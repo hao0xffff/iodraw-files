@@ -245,7 +245,10 @@
           <mxGeometry x="85" y="1418" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-79" value="你是XXX，你有1，2，3等等工具可以使用，他们的调用方法是xxx,请你根据当前情况判断下一步该干什么；结构化输出调用文本！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1339" width="60" height="30" as="geometry" />
+          <mxGeometry x="179" y="1336" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-80" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="527" y="1318" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
