@@ -25,7 +25,7 @@
             <mxPoint x="460" y="102" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-9" value="答案很显然：可以给它一个自然语言指令，让其输出稳定的对于程序来说的可读的指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="396" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
