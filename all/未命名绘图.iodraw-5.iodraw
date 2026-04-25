@@ -334,8 +334,8 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-110" value="cursor: 。。。。。。。。。。。。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192" y="2901" width="405" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-111" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="149" y="2974" width="60" height="30" as="geometry" />
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-111" value="其实这期间读问文件的工具已经反复的把文件读到内存中许多次了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="149" y="2974" width="550" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
