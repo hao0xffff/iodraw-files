@@ -1,0 +1,355 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="cLF-4u6-t-mjMcmnHHeJ">
+    <mxGraphModel dx="1325" dy="582" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-1" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="179" y="35" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-2" value="LLM（大模型）的本质：一个接收自然语言后输出自然语言的一个“接口”；其本质上不会参与实际的任何计算机的功能性操作。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="301" y="57" width="341" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-4" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="221" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-5" value="试想一下，当大模型的“智力”很高，也就是该大模型能处理更复杂的自然语言并输出无限趋近于精准的答案时，这个大模型可以做什么？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="228.5" y="182" width="371" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-6" value="IQ_level: MAX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#32d2c7;" vertex="1" parent="1">
+          <mxGeometry x="454" y="246" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.306;exitY=1.078;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.477;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-2" target="IV8wxGE8KKCTReJ84DcD-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="152" as="sourcePoint" />
+            <mxPoint x="460" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-9" value="答案很显然：可以给它一个自然语言指令，让其输出稳定的对于程序来说的可读的指令，将指令喂给程序，程序返回结果，LLM读取结果，给予人自然语言回答。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="182" y="403" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.306;exitY=1.078;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.477;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395.5" y="311" as="sourcePoint" />
+            <mxPoint x="395.5" y="403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-11" value="人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="469" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="518" as="sourcePoint" />
+            <mxPoint x="313" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-15" value="你去帮我查一下明天的天气！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1396e7;" vertex="1" parent="1">
+          <mxGeometry x="186" y="461" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-16" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="469" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-17" value="程序" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="608" y="446" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IV8wxGE8KKCTReJ84DcD-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="456" y="496" as="sourcePoint" />
+            <mxPoint x="540" y="564" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-19" value="call getweather(明天，上海)；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#13d510;" vertex="1" parent="1">
+          <mxGeometry x="430" y="459" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=78.39291168278956;exitPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461" y="657" as="sourcePoint" />
+            <mxPoint x="460" y="524" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-21" value="return tomrrow_weather;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#11df29;" vertex="1" parent="1">
+          <mxGeometry x="450" y="532" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="527" as="sourcePoint" />
+            <mxPoint x="163" y="527" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-24" value="我查到嘞，明天上海是晴天！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1c93ce;" vertex="1" parent="1">
+          <mxGeometry x="179" y="529" width="163" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="557" as="sourcePoint" />
+            <mxPoint x="389" y="639" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-27" value="于是我们在这里引入一个Agent框架：ReAct(Reasoning Acting)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="654" width="292" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-28" value="你可以把LLM当作一个大脑来看，一个人需要完成一个工作是需要手脚并用的；LLM缺少的就是手和脚。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="712" width="219" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-30" value="Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="342" y="751" width="111" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-33" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="745" width="53" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-34" value="?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418" y="732" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-35" value="现在把Agent当作一个人来看，人要端起来一杯水的动作是怎么完成的呢？：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="533.75" y="710" width="207" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-36" value="1.大脑让手去握住杯子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="758" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-37" value="2.手触碰到杯子后通过神经传输给大脑触感信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="790" width="253" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-38" value="3.大脑让手使劲握住杯子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="822" width="207" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-39" value="4.手通过神经传输给大脑杯子的重量等信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="533.75" y="857" width="238.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-40" value="5.大脑感知到杯子被端起来了。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="533.75" y="887" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-41" value="整个动作完成！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="599.5" y="920" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="960" as="sourcePoint" />
+            <mxPoint x="412" y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-43" value="你会发现，如人在干一件事时，本质上就像一个大循环：大脑发送指令，手动，大脑接收手返回的信息，思考下一步该干啥，该怎么调用自己的四肢。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="218" y="1070" width="414" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409" y="1113" as="sourcePoint" />
+            <mxPoint x="411" y="1208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-45" value="而Agent就是这个模式运行的；&lt;div&gt;我们看看一个完整的ReAct框架：&lt;br&gt;PromptBuilder,&lt;span style=&quot;background-color: initial;&quot;&gt;LLM，Parser，Tools这四个核心模块组成&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="159" y="1226" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-55" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="395" y="1567" width="52" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-56" value="PromptBuilder" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="182" y="1409" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-57" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="536.25" y="1399" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-58" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-57">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-59" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-58">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-60" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-58">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-61" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-58">
+          <mxGeometry x="120" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-62" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-57">
+          <mxGeometry y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-63" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-62">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-64" value="Parser" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-62">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-65" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-62">
+          <mxGeometry x="120" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-66" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-57">
+          <mxGeometry y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-67" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-66">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-68" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-66">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-69" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-66">
+          <mxGeometry x="120" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-70" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="1293" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-71" value="Tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="1621" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=50;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-56" target="IV8wxGE8KKCTReJ84DcD-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="1400" as="sourcePoint" />
+            <mxPoint x="270" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.51;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-70" target="IV8wxGE8KKCTReJ84DcD-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="463" y="1448" as="sourcePoint" />
+            <mxPoint x="513" y="1398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.525;exitY=1.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.955;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-66" target="IV8wxGE8KKCTReJ84DcD-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="568" y="1600" as="sourcePoint" />
+            <mxPoint x="618" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-55" target="IV8wxGE8KKCTReJ84DcD-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="1453" as="sourcePoint" />
+            <mxPoint x="429" y="1403" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-76" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="38" y="1429" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.403;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-76" target="IV8wxGE8KKCTReJ84DcD-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="1474" as="sourcePoint" />
+            <mxPoint x="135" y="1424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-78" value="干活了！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1418" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-79" value="你是XXX，你有1，2，3等等工具可以使用，他们的调用方法是xxx,请你根据当前情况判断下一步该干什么；结构化输出调用文本！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="179" y="1336" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-80" value="call tool1:get time;&lt;div&gt;call tool2: get date;&lt;/div&gt;&lt;div&gt;call tool3:get weather;&lt;/div&gt;&lt;div&gt;call tool4:get location;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1321" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-81" value="解析器解析大模型输出的指令后调用工具，同时也参与纠错；（但这是后话）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="398.75" y="1450" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-82" value="指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="513" y="1556" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-83" value="结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267" y="1556" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-85" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423" y="1753" as="sourcePoint" />
+            <mxPoint x="421" y="1753" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-86" value="Agent就是一个接上了一个大脑的大循环；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="1763" width="273" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-88" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.452;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="412" y="1904" as="sourcePoint" />
+            <mxPoint x="420" y="1899" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-89" value="我们回到cursor: 一个封装了完备工具和大循环的Agent操作工具；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="257" y="1908" width="365" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-90" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="2033" width="321.5" height="321.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-91" value="cursor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="2035" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-92" value="Cursor_Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="2144" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-94" value="tools" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="513" y="2144" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-99" value="人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="51" y="2171" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="94" y="2201" as="sourcePoint" />
+            <mxPoint x="289" y="2187" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="IV8wxGE8KKCTReJ84DcD-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="2229" as="sourcePoint" />
+            <mxPoint x="204" y="2236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-102" value="正常使用（好的情况下）：你用cursor，cursor_agent理解你的意图，调用cursor_tools来完成工作，cursor_agent分析结果自然语言形式告诉你。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-63" y="2073" width="328" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-103" value="你要知道，本质上cursor是运行在你计算机上的一个程序，其中的大模型只是负责以ReAct的模式去调用工具来操作你的计算机" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="456" y="2392" width="298" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-104" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434" y="2463" as="sourcePoint" />
+            <mxPoint x="438" y="2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-105" value="假设你现在让cursor给你复制文件（本质上的操作是读文件数据到计算机内存中，最后在写到磁盘上）：我请问，在坏的情况下，cursor的ReAct链路断了，导致它只调用了读文件的工具，但是感知不到读文件工具返回的结果（是否读取成功了呢？）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="158" y="2623" width="626" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-106" value="就会出现这个结果：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2717" width="292" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-107" value="cursor: 你让我复制文件，我现在调用一下读取文件的工具，cat files&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="192" y="2778" width="414" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-108" value="cursor: 读取文件的工具好像没有返回读取的结果，可能是读取失败了，让我再试一次&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="192" y="2816" width="481" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-109" value="cursor: 读取文件的操作又失败了，我再来试一次&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="192" y="2854" width="444" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-110" value="cursor: 。。。。。。。。。。。。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="192" y="2901" width="405" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-111" value="其实这期间读问文件的工具已经反复的把文件读到内存中许多次了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="149" y="2974" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-112" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.549;exitY=1.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-111">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="453" y="3124" as="sourcePoint" />
+            <mxPoint x="451" y="3157" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-113" value="于是你就OOM（内存溢出）了" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244" y="3208" width="452" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-114" value="纯个人主观理解，非专业解读" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="666" y="3478" width="246" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
