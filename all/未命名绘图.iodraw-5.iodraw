@@ -128,7 +128,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-43" value="你会发现，如人在干一件事时，本质上就像一个大循环：大脑发送指令，手动，大脑接收手返回的信息，思考下一步该干啥，该怎么调用自己的四肢。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="353" y="1079" width="414" height="30" as="geometry" />
+          <mxGeometry x="218" y="1070" width="414" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="1224" as="sourcePoint" />
+            <mxPoint x="474" y="1174" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
