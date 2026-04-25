@@ -70,6 +70,12 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-21" value="return tomrrow_weather;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="532" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="212" y="605" as="sourcePoint" />
+            <mxPoint x="262" y="555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
