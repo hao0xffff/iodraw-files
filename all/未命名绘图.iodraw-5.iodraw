@@ -139,41 +139,6 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-45" value="而Agent就是这个模式运行的；&lt;div&gt;我们看看一个完整的ReAct框架：&lt;br&gt;PromptBuilder,&lt;span style=&quot;background-color: initial;&quot;&gt;LLM，Parser，Tools这四个核心模块组成&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="159" y="1226" width="510" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-46" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1393" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-47" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-46">
-          <mxGeometry width="60" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-48" value="Item 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-47">
-          <mxGeometry width="60" height="15" as="geometry">
-            <mxRectangle width="60" height="15" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-46">
-          <mxGeometry y="15" width="60" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-50" value="Item 2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-49">
-          <mxGeometry width="60" height="15" as="geometry">
-            <mxRectangle width="60" height="15" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-46">
-          <mxGeometry y="30" width="60" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-52" value="Item 3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-51">
-          <mxGeometry width="60" height="15" as="geometry">
-            <mxRectangle width="60" height="15" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-53" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-46">
-          <mxGeometry y="45" width="60" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-54" value="Item 4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" vertex="1" parent="IV8wxGE8KKCTReJ84DcD-53">
-          <mxGeometry width="60" height="15" as="geometry">
-            <mxRectangle width="60" height="15" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
