@@ -304,7 +304,7 @@
             <mxPoint x="204" y="2236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-102" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-102" value="正常使用（好的情况下）：你用cursor，cursor_agent理解你的意图，调用cursor_tools来完成工作，cursor_agent分析结果自然语言形式告诉你。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="33" y="2004" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
