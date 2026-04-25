@@ -37,6 +37,12 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-11" value="人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="154" y="469" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="518" as="sourcePoint" />
+            <mxPoint x="281" y="468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
