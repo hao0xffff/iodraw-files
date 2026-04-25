@@ -92,7 +92,7 @@
           <mxGeometry x="80" y="712" width="219" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-30" value="Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="319" y="851" width="30" height="60" as="geometry" />
+          <mxGeometry x="342" y="818" width="111" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
