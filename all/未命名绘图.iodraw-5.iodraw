@@ -43,7 +43,7 @@
             <mxPoint x="313" y="499" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-15" value="你去帮我查一下明天的天气！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-15" value="你去帮我查一下明天的天气！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1396e7;" vertex="1" parent="1">
           <mxGeometry x="213" y="455" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-16" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-24" value="我查到嘞，明天上海是晴天！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="546" width="163" height="30" as="geometry" />
+          <mxGeometry x="179" y="529" width="163" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
