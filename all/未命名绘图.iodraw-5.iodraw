@@ -319,6 +319,9 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-105" value="假设你现在让cursor给你复制文件（本质上的操作是读文件数据到计算机内存中，最后在写到磁盘上）：我请问，在坏的情况下，cursor的ReAct链路断了，导致它只调用了读文件的工具，但是感知不到读文件工具返回的结果（是否读取成功了呢？）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="158" y="2623" width="626" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-106" value="就会出现这个结果：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="348" y="2772" width="292" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
