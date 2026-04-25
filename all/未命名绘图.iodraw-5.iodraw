@@ -115,7 +115,7 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-39" value="4.手通过神经传输给大脑杯子的重量等信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="533.75" y="857" width="238.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-40" value="5.大脑感知到杯子被端起来了。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="531" y="895" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
