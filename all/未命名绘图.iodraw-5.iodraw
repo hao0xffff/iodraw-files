@@ -25,7 +25,7 @@
             <mxPoint x="460" y="102" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-9" value="答案很显然：可以给它一个自然语言指令，让其输出稳定的对于程序来说的可读的指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-9" value="答案很显然：可以给它一个自然语言指令，让其输出稳定的对于程序来说的可读的指令，将指令喂给程序，程序返回结果，LLM读取结果，给予人自然语言回答。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="182" y="403" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.306;exitY=1.078;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.477;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="186" y="461" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-16" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="459" width="120" height="80" as="geometry" />
+          <mxGeometry x="327" y="469" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-17" value="程序" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
           <mxGeometry x="608" y="446" width="90" height="100" as="geometry" />
