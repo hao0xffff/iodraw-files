@@ -85,7 +85,7 @@
             <mxPoint x="389" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-27" value="于是我们在这里引入一个Agent框架：ReAct(Reasoning Acting)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="362" y="664" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
