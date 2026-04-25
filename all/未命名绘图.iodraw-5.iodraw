@@ -307,7 +307,7 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-102" value="正常使用（好的情况下）：你用cursor，cursor_agent理解你的意图，调用cursor_tools来完成工作，cursor_agent分析结果自然语言形式告诉你。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-63" y="2073" width="328" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-103" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-103" value="你要知道，本质上cursor是运行在你计算机上的一个程序，其中的大模型只是负责以ReAct的模式去调用工具来操作你的计算机" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="451" y="2450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
