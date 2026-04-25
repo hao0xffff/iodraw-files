@@ -110,7 +110,10 @@
           <mxGeometry x="542" y="790" width="253" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-38" value="3.大脑让手使劲握住杯子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="537" y="842" width="60" height="30" as="geometry" />
+          <mxGeometry x="505" y="822" width="207" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="537" y="864" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
