@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IV8wxGE8KKCTReJ84DcD-1" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="32" width="120" height="80" as="geometry" />
+          <mxGeometry x="179" y="35" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-2" value="LLM（大模型）的本质：一个接收自然语言后输出自然语言的一个“接口”；其本质上不会参与实际的任何计算机的功能性操作。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="301" y="57" width="341" height="30" as="geometry" />
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-6" value="IQ_level: MAX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#32d2c7;" vertex="1" parent="1">
           <mxGeometry x="454" y="246" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="152" as="sourcePoint" />
+            <mxPoint x="460" y="102" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
