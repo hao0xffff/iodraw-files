@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-15" value="你去帮我查一下明天的天气！" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1396e7;" vertex="1" parent="1">
-          <mxGeometry x="213" y="455" width="60" height="30" as="geometry" />
+          <mxGeometry x="186" y="461" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-16" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="459" width="120" height="80" as="geometry" />
