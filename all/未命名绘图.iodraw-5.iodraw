@@ -139,6 +139,12 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-45" value="而Agent就是这个模式运行的；&lt;div&gt;我们看看一个完整的ReAct框架：&lt;br&gt;PromptBuilder,&lt;span style=&quot;background-color: initial;&quot;&gt;LLM，Parser，Tools这四个核心模块组成&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="159" y="1226" width="510" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-55" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="381" y="1463" width="52" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-56" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="108" y="1367" width="80" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
