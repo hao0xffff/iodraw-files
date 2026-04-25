@@ -268,10 +268,10 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-86" value="Agent就是一个接上了一个大脑的大循环；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="294" y="1763" width="273" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-88" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-88" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.452;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-86">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="412" y="1904" as="sourcePoint" />
-            <mxPoint x="462" y="1854" as="targetPoint" />
+            <mxPoint x="420" y="1899" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
