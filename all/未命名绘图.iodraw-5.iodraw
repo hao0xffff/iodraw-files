@@ -274,8 +274,8 @@
             <mxPoint x="420" y="1899" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-89" value="我们回到cursor: 一个封装了完备工具和大循环的Agent操作工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="368" y="1955" width="60" height="30" as="geometry" />
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-89" value="我们回到cursor: 一个封装了完备工具和大循环的Agent操作工具；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="368" y="1955" width="365" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
