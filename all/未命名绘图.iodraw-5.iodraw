@@ -88,7 +88,7 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-27" value="于是我们在这里引入一个Agent框架：ReAct(Reasoning Acting)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="654" width="292" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-28" value="你可以把LLM当作一个大脑来看，一个人需要完成一个工作是需要手脚并用的；LLM缺少的就是手和脚。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="92" y="741" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
