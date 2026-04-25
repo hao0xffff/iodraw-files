@@ -268,9 +268,6 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-86" value="Agent就是一个接上了一个大脑的大循环；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="294" y="1763" width="273" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-87" value="故此，我们知道：&lt;br&gt;1." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1857" width="306" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
