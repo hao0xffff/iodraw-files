@@ -256,8 +256,8 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-82" value="指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="513" y="1556" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-83" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="257" y="1558" width="60" height="30" as="geometry" />
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-83" value="结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267" y="1556" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
