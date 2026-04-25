@@ -253,7 +253,7 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-81" value="解析器解析大模型输出的指令后调用工具，同时也参与纠错；（但这是后话）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="398.75" y="1450" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-82" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-82" value="指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="531" y="1577" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
