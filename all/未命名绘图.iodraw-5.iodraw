@@ -143,7 +143,7 @@
           <mxGeometry x="395" y="1567" width="52" height="61" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-56" value="PromptBuilder" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="158" y="1391" width="80" height="100" as="geometry" />
+          <mxGeometry x="179" y="1406" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-57" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="544" y="1391" width="180" height="120" as="geometry" />
@@ -206,7 +206,7 @@
           <mxGeometry x="348" y="1293" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-71" value="Tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="358" y="1624" width="60" height="30" as="geometry" />
+          <mxGeometry x="391" y="1621" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
