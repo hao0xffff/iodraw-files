@@ -101,7 +101,7 @@
           <mxGeometry x="418" y="732" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-35" value="现在把Agent当作一个人来看，人要端起来一杯水的动作是怎么完成的呢？：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="547" y="702" width="207" height="30" as="geometry" />
+          <mxGeometry x="533.75" y="710" width="207" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-36" value="1.大脑让手去握住杯子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="505" y="758" width="195" height="30" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="533.75" y="857" width="238.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-40" value="5.大脑感知到杯子被端起来了。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="531" y="895" width="60" height="30" as="geometry" />
+          <mxGeometry x="533.75" y="887" width="185" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
