@@ -58,7 +58,7 @@
             <mxPoint x="540" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-19" value="call getweather(明天，上海)；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-19" value="call getweather(明天，上海)；" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#13d510;" vertex="1" parent="1">
           <mxGeometry x="430" y="459" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=78.39291168278956;exitPerimeter=0;" edge="1" parent="1" source="IV8wxGE8KKCTReJ84DcD-17">
@@ -67,7 +67,7 @@
             <mxPoint x="460" y="524" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-21" value="return tomrrow_weather;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-21" value="return tomrrow_weather;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#11df29;" vertex="1" parent="1">
           <mxGeometry x="450" y="532" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IV8wxGE8KKCTReJ84DcD-11">
