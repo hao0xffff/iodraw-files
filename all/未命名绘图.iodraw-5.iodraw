@@ -13,6 +13,9 @@
         <mxCell id="IV8wxGE8KKCTReJ84DcD-4" value="LLM" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="263" y="233" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-5" value="试想一下，当大模型的“智力”很高，也就是该大模型能处理更复杂的自然语言并输出无限趋近于精准的答案时，这个大模型可以做什么？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="253" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
