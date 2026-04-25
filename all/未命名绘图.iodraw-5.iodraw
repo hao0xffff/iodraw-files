@@ -278,9 +278,9 @@
           <mxGeometry x="257" y="1908" width="365" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV8wxGE8KKCTReJ84DcD-90" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="348" y="2039" width="80" height="80" as="geometry" />
+          <mxGeometry x="307.5" y="2022" width="213" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="IV8wxGE8KKCTReJ84DcD-91" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IV8wxGE8KKCTReJ84DcD-91" value="cursor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="336" y="2039" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
