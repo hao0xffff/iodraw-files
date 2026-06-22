@@ -16,7 +16,7 @@
             <mxPoint x="1311" y="-34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1mXGOtQlEJUBV3lF0FA0-7" value="次Agent做过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1mXGOtQlEJUBV3lF0FA0-7" value="次Agent做过滤，非相关问题不进入主Agent&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1162" y="-74" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
