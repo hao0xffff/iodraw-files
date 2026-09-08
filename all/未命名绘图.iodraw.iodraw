@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jrgV3icO_uvXnbXy1Dke-1" value="进程" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="-174" y="342" width="114" height="114" as="geometry" />
+          <mxGeometry x="-209" y="303.5" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="jrgV3icO_uvXnbXy1Dke-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jrgV3icO_uvXnbXy1Dke-2" target="jrgV3icO_uvXnbXy1Dke-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jrgV3icO_uvXnbXy1Dke-2" value="main线程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="330.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-17" y="331" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jrgV3icO_uvXnbXy1Dke-4" value="Thread-0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="558" y="330.5" width="120" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="-480" y="330.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVVShGmMMD_redUoDnus-4" value="运行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-297" y="331" width="60" height="30" as="geometry" />
+          <mxGeometry x="-314" y="328" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
