@@ -20,7 +20,7 @@
           <mxGeometry x="410" y="331" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVVShGmMMD_redUoDnus-1" value="主线程不会因为start()方法而阻塞" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="153" y="326" width="217" height="30" as="geometry" />
+          <mxGeometry x="148" y="365" width="217" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVVShGmMMD_redUoDnus-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xVVShGmMMD_redUoDnus-2" target="jrgV3icO_uvXnbXy1Dke-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
