@@ -21,6 +21,11 @@
         <mxCell id="jrgV3icO_uvXnbXy1Dke-2" value="main线程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-17" y="331" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L_X2SOkeoDqtUsSbgh7c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jrgV3icO_uvXnbXy1Dke-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="631" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jrgV3icO_uvXnbXy1Dke-4" value="Thread-0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="331" width="120" height="60" as="geometry" />
         </mxCell>
