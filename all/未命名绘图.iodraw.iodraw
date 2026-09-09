@@ -55,6 +55,9 @@
         <mxCell id="v0PEsXsFQu53KV559iBM-10" value="AgentFlow" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="551" y="381" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v0PEsXsFQu53KV559iBM-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382" y="382" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
