@@ -18,6 +18,11 @@
         <mxCell id="pFB9x6YfxyuP2-2z3YXg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pFB9x6YfxyuP2-2z3YXg-2" target="pFB9x6YfxyuP2-2z3YXg-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pFB9x6YfxyuP2-2z3YXg-10" value="生成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pFB9x6YfxyuP2-2z3YXg-9">
+          <mxGeometry x="-0.0573" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pFB9x6YfxyuP2-2z3YXg-2" value="snapshot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="481" y="290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -33,7 +38,7 @@
           <mxGeometry x="239" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pFB9x6YfxyuP2-2z3YXg-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="292" width="120" height="60" as="geometry" />
+          <mxGeometry x="748" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
