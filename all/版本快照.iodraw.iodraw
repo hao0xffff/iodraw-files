@@ -40,7 +40,7 @@
         <mxCell id="pFB9x6YfxyuP2-2z3YXg-8" value="agentflow" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="748" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pFB9x6YfxyuP2-2z3YXg-11" value="sen" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="pFB9x6YfxyuP2-2z3YXg-11" value="scenario-node" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="-37" y="519" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
