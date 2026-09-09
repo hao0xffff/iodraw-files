@@ -19,8 +19,11 @@
         <mxCell id="v0PEsXsFQu53KV559iBM-6" value="Agent Snapshot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="381" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v0PEsXsFQu53KV559iBM-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="v0PEsXsFQu53KV559iBM-7" value="AgentFlow" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="557" y="171" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v0PEsXsFQu53KV559iBM-8" value="AgentFlow" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="181" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
