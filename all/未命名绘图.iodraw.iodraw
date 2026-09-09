@@ -69,10 +69,10 @@
         <mxCell id="v0PEsXsFQu53KV559iBM-20" value="生成版本快照" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="525" width="147" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v0PEsXsFQu53KV559iBM-25" value="保存只是修改当前Agent的配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="v0PEsXsFQu53KV559iBM-25" value="覆盖当前Agent的配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="464" y="525" width="172" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v0PEsXsFQu53KV559iBM-26" value="生成版本快照" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="v0PEsXsFQu53KV559iBM-26" value="拉取版本快照" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="797" y="525" width="147" height="30" as="geometry" />
         </mxCell>
       </root>
