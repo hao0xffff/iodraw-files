@@ -55,11 +55,19 @@
         <mxCell id="v0PEsXsFQu53KV559iBM-10" value="AgentFlow" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="551" y="381" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v0PEsXsFQu53KV559iBM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v0PEsXsFQu53KV559iBM-19" target="v0PEsXsFQu53KV559iBM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v0PEsXsFQu53KV559iBM-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v0PEsXsFQu53KV559iBM-21">
+          <mxGeometry x="-0.0311" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v0PEsXsFQu53KV559iBM-19" value="保存只是修改当前Agent的配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-83" y="525" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v0PEsXsFQu53KV559iBM-20" value="生成版本快照" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="297" y="545" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="525" width="147" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
